@@ -5,7 +5,7 @@
 > so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 > for more usage information.
 
-# Calendar Website
+# Calendar Website Project
 
 [_Add a brief description of your project here._]
 
